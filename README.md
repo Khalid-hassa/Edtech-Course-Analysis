@@ -20,6 +20,14 @@ I came up with this project to analyze the dataset to help an Edtech startup to 
 6. Investigate the relationship between the availability of subtitles and the number of views for courses to determine how subtitle options may impact viewer engagement and accessibility.
 
 
+7. Identify the top three instructors for each category and subcategory based on ratings   to highlight educators who consistently deliver high-quality content and effectively engage learners so that they can be approached by your client to make content for them and make this visual as static.
+
+
+8. Examine the relationship between course duration and the number of views to understand how the length of a course may influence viewer engagement and preferences for each category and sub-category, if course duration has a month (in each month only 60 hours of content ) and for flexible schedules make the timing as 200 hours.
+
+
+9. In the context of recorded lectures, we need to investigate whether the variety of skills offered within each category and subcategory has a measurable impact on viewership
+
 
 
 
