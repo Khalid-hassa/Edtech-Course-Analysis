@@ -28,7 +28,6 @@ I came up with this project to analyze the dataset to help an Edtech startup to 
 
 - In the context of recorded lectures, we need to investigate whether the variety of skills offered within each category and subcategory has a measurable impact on viewership
 
-
-
+## Finding
 
 
